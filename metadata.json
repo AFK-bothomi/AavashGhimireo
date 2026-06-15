@@ -1,0 +1,6 @@
+{
+  "name": "Mom Birthday Surprise",
+  "description": "A beautiful interactive birthday celebration portal and wishes section for Mom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
